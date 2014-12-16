@@ -1,0 +1,14 @@
+{
+    "name": "dishark/tibia-creatures-crawler",
+    "description": "A simple way to download images and metadatas from tibia creatures",
+    "authors": [
+        {
+            "name": "Hudson Pereira",
+            "email": "hudson.byte@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+    	"psr-4" : { "Dishark\\TibiaCrawler\\" : "src/" }
+    }
+}
